@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Anushka",
+        "age": 20,
+        "email": "chaudharyanushka05@gmail.com",
+        "pin": 2001,
+        "account_no": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Arnav",
+        "age": 24,
+        "email": "arnav05@gmail.com",
+        "pin": 2002,
+        "account_no": "d5PU46*",
+        "balance": 100
+    },
+    {
+        "name": "Ankita Chaudhary",
+        "age": 29,
+        "email": "chaudhary123@gmail.com",
+        "pin": 1342,
+        "account_no": "$MTb393",
+        "balance": 5000
+    }
+]
